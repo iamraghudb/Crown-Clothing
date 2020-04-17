@@ -6,7 +6,11 @@ a {
   text-decoration: none;
   color: black;
 }
-.App {
+
+* {
+  box-sizing: border-box;
+}
+/* .App {
   text-align: center;
 }
 
@@ -43,4 +47,4 @@ a {
   to {
     transform: rotate(360deg);
   }
-}
+} */
