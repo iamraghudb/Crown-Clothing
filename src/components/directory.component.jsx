@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import MenuItem from "./menu-item.component";
 import "./menu-item.styles.scss";
 import { selectDirectorySections } from "../redux/directory/directory.selectors";
